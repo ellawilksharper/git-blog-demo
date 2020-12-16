@@ -2,3 +2,4 @@ shopping
 milk
 bread
 orange juice
+eggs
